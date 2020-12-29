@@ -20,5 +20,5 @@ Download this theme from https://www.sktthemes.org/shop/free-modern-wordpress-th
 # Installation
 1. Login to your website
 2. Visit "Appearance > Themes > Add New"
-3. Search for "Astra"
+3. Search for "SKT Complete"
 4. Install and activate
